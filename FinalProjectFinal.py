@@ -1,5 +1,5 @@
 '''
-Final Project - Kassandra Bethune
+Final Project - 
 Python v3.7
 Sep 9, 2019
 Script uses requests, re, and json libraries
